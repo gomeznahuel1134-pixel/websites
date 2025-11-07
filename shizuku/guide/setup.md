@@ -1,6 +1,6 @@
 # User manual
 
-[[toc]]
+[[toc]] no me acuerdo para free
 
 ## Start Shizuku
 
